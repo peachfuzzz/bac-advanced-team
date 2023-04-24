@@ -1,0 +1,31 @@
+Unnamed: 0,match_id,blue_top,blue_jungle,blue_middle,blue_bottom,blue_support,red_top,red_jungle,red_middle,red_bottom,red_support,blue_win
+C9 v GG,1,Olaf,Maokai,Orianna,Aphelios,Thresh,Kennen,Sejuani,KSante,Zeri,Rakan,TRUE
+,2,Malphite,MonkeyKing,Ahri,Xayah,Rakan,KSante,Sejuani,Akali,Zeri,Lulu,TRUE
+,3,Renekton,Elise,LeBlanc,Lucian,Nami,Kennen,LeeSin,Ahri,Zeri,Lulu,TRUE
+,4,Malphite,MonkeyKing,Galio,Lucian,Nami,Olaf,Poppy,LeBlanc,Xayah,Rakan,FALSE
+FLY v GG,1,Sion,Maokai,Jayce,Xayah,Braum,Fiora,Elise,KSante,Zeri,Leona,TRUE
+,2,Kennen,MonkeyKing,Lissandra,Zeri,JarvanIV,Sion,Vi,Taliyah,Xayah,Heimerdinger,TRUE
+,3,Sion,Maokai,Jayce,Jinx,Rakan,Olaf,MonkeyKing,Taliyah,Caitlyn,Heimerdinger,TRUE
+,4,Malphite,Elise,Tristana,Xayah,Rakan,KSante,Gragas,Sylas,Lucian,Nami,TRUE
+,5,Sion,Elise,Jayce,Xayah,Rakan,Fiora,JarvanIV,Lissandra,Lucian,Nami,FALSE
+GG v EG,1,KSante,Maokai,Tristana,Jinx,Ashe,Fiora,MonkeyKing,Taliyah,Caitlyn,Heimerdinger,FALSE
+,2,Sion,Vi,Ahri,Zeri,Nautilus,Gwen,Maokai,KSante,Tristana,Rell,FALSE
+,3,Rumble,Maokai,KSante,Tristana,Amumu,Malphite,Viego,Lissandra,Zeri,Lulu,TRUE
+C9 v FLY,1,KSante,Maokai,Tristana,Varus,Heimerdinger,Renekton,MonkeyKing,Viktor,Zeri,Rakan,TRUE
+,2,Jax,Sejuani,Veigar,Zeri,Rakan,KSante,Maokai,Orianna,Varus,Sejuani,FALSE
+,3,Sion,Maokai,Tristana,Jinx,Thresh,Renekton,Sejuani,Sylas,Aphelios,Braum,FALSE
+CLG v EG,1,Sion,Vi,Taliyah,Jinx,Lulu,Malphite,MonkeyKing,Ahri,Zeri,Rakan,FALSE
+,2,Renekton,Vi,Vex,Zeri,Rakan,Malphite,LeeSin,Ahri,Varus,Ashe,FALSE
+,3,Sion,Gragas,Jayce,Xayah,Rakan,KSante,MonkeyKing,Veigar,Aphelios,Thresh,FALSE
+100 v GG,1,KSante,MonkeyKing,Zilean,Jinx,Thresh,Renekton,Vi,Akali,Zeri,Lulu,TRUE
+,2,Gwen,MonkeyKing,Sylas,Lucian,Nami,Sion,Vi,Viktor,Jinx,Nautilus,TRUE
+,3,Gragas,Viego,Annie,Zeri,Blitzcrank,KSante,XinZhao,Veigar,Jinx,Thresh,TRUE
+,4,Olaf,MonkeyKing,Galio,Lucian,Nami,Gragas,Vi,Zilean,Zeri,Lulu,TRUE
+,5,Sion,MonkeyKing,Taliyah,Jinx,Thresh,Gwen,Maokai,KSante,Zeri,Blitzcrank,FALSE
+C9 v CLG,1,Jayce,Maokai,Yone,Varus,Heimerdinger,Sion,MonkeyKing,Sylas,Zeri,Rakan,TRUE
+,2,Gwen,Elise,Jayce,Zeri,Lulu,Kennen,LeeSin,KSante,Lucian,Nami,TRUE
+,3,Gragas,Maokai,Jayce,Zeri,Soraka,Sion,MonkeyKing,Veigar,Jinx,Lulu,TRUE
+,4,Sion,Elise,Jayce,Xayah,Rakan,KSante,Maokai,LeBlanc,Zeri,Renata,FALSE
+FLY v 100,1,Sion,MonkeyKing,Veigar,Lucian,Nami,Chogath,XinZhao,Zilean,Jinx,Thresh,TRUE
+,2,KSante,MonkeyKing,Taliyah,Zeri,Lulu,Sion,XinZhao,Orianna,Jinx,Thresh,TRUE
+,3,Gragas,MonkeyKing,Ahri,Jinx,Thresh,Renekton,Maokai,Veigar,Zeri,Lulu,FALSE
